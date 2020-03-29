@@ -107,4 +107,4 @@ El objetivo general de la actividad es evaluar la manipulación y presentación 
         weighted avg       0.56      0.37      0.41       795
 
      
-### El modelo tiene una presicion del 56%, hay intent que tiene una precision y recall, lamentablemente la cantidad de datos no aportan para hacer un modelo mas acertado.
+### El modelo tiene una presicion del 56%, hay intent que tiene una precision y recall aceptable, lamentablemente la cantidad de datos no aportan para hacer un modelo mas acertado.

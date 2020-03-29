@@ -32,7 +32,7 @@ El objetivo general de la actividad es evaluar la manipulación y presentación 
 ## DESARROLLO
 
 ## 1. Limpieza de los datos
-* [Desafio_limpieza.ipynb](Desafio_Limpieza.ipynb)
+* [Desafio_limpieza.ipynb](Desafio_limpieza.ipynb)
 * La limpieza la realizamos de la siguiente forma:
 
     * Una vez identificado que tenemos tres tipos de informacion, las que se solucionan a la primera,las que no y las que no tienen solucion. 
